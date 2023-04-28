@@ -1,0 +1,3554 @@
+[
+  {
+    "id": 10006,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Ocean Mammals",
+    "order": 40,
+    "year": 2018,
+    "code": "OMA",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "8b7d3a26b60eaec3e1cb7e4fc2600353a3a0a856",
+      "collectionBg": "ae47bb57fbd126d672ba7b3561c01d7e8734badc"
+    },
+    "size": 37,
+    "parent": 10000
+  },
+  {
+    "id": 10007,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Riding the Waves!",
+    "order": 65,
+    "year": 2018,
+    "code": "OWA",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "bc13a873174d256eaa4fd831c59fb80c0d7a0394",
+      "collectionBg": "ec41afad5aca57640a0276840482d14e9826cf2f"
+    },
+    "size": 33,
+    "parent": 10000
+  },
+  {
+    "id": 10008,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Reptiles",
+    "order": 80,
+    "year": 2018,
+    "code": "LRE",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "78360555a28b11a9756e3d944e091aaa71654462",
+      "collectionBg": "7996580a05ce615741f5172e78358da58bf0deb3"
+    },
+    "size": 39,
+    "parent": 10001
+  },
+  {
+    "id": 10009,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Mammals",
+    "order": 55,
+    "year": 2018,
+    "code": "LMA",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "c631c857e32e7a2ba59b72dd4620233fa89125d1",
+      "collectionBg": "89987e76249f41dad6941f62720402de378cf48d"
+    },
+    "size": 71,
+    "parent": 10001
+  },
+  {
+    "id": 10010,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Dogs",
+    "order": 30,
+    "year": 2018,
+    "code": "LDG",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "6a367ee2ad3a034559e917779090a8cf1087781e",
+      "collectionBg": "645debf9fcce5e67785c6f967039e80ccc8ec900"
+    },
+    "size": 36,
+    "parent": 10001
+  },
+  {
+    "id": 10011,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Space Oddities",
+    "order": 45,
+    "year": 2018,
+    "code": "SOD",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "f212b738b3cf62932468fa3f4ebb29ccae64e7ba",
+      "collectionBg": "eaba378929e5ffec0cd2d1958830ec0007ac8d33"
+    },
+    "size": 38,
+    "parent": 10002
+  },
+  {
+    "id": 10012,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "The Solar System",
+    "order": 60,
+    "year": 2018,
+    "code": "SSS",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "b4026dc311f937c643d6069cdf74ba1862525cfb",
+      "collectionBg": "bb3fb7f80650789d9f700bce45956bb4b16f1678"
+    },
+    "size": 35,
+    "parent": 10002
+  },
+  {
+    "id": 10013,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Feudal Japan",
+    "order": 35,
+    "year": 2018,
+    "code": "EJP",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "2ec5b0c042afb9b5554f905a9a08110b57a60b03",
+      "collectionBg": "5e9d314187a6de08178eca2ee29ff79652c9f3a3"
+    },
+    "size": 32,
+    "parent": 10003
+  },
+  {
+    "id": 10014,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Ancient Greece",
+    "order": 10,
+    "year": 2018,
+    "code": "EAG",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "d5e106235f4a523a678d455471d8ba4e356f6bc9",
+      "collectionBg": "e45288d7aac7e95fbd77e77f6fc8f0d9e3634a3f"
+    },
+    "size": 33,
+    "parent": 10003
+  },
+  {
+    "id": 10015,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Carnivores",
+    "order": 10,
+    "year": 2018,
+    "code": "PCA",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "89f56838a391ae9f82f5a72d2553e36bdf6523fe",
+      "collectionBg": "ab7b3b9abb0c5eecd1c74a0d8af217c54abc2c81"
+    },
+    "size": 41,
+    "parent": 10004
+  },
+  {
+    "id": 10016,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Herbivores",
+    "order": 30,
+    "year": 2018,
+    "code": "PHE",
+    "modified": 1677239240371,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "2c2eb303f3e96717ec1c478833bafd395603f46b",
+      "collectionBg": "2e25d341584b60d2093ec792cece5fcace3ece3a"
+    },
+    "size": 37,
+    "parent": 10004
+  },
+  {
+    "id": 10018,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Awesome Aviation",
+    "order": 5,
+    "year": 2018,
+    "code": "SAA",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "ab9602add10c5927b5c9b99176440d5ed233e9b4",
+      "collectionBg": "729c919f1fd9078c62c2ec82cff02c7ff0af2c85"
+    },
+    "size": 30,
+    "parent": 10005
+  },
+  {
+    "id": 10019,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Super Structures",
+    "order": 70,
+    "year": 2018,
+    "code": "STR",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "30f82f0833f453cf0d228e0bdbc108c7f571c436",
+      "collectionBg": "4850e2b9a725cf990b4334e1d72f43aec4a7ca58"
+    },
+    "size": 39,
+    "parent": 10005
+  },
+  {
+    "id": 10020,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Sharks!",
+    "order": 75,
+    "year": 2018,
+    "code": "OSH",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "e679f8e36f10afbde91f7b47fd2118571fd13fd6",
+      "collectionBg": "95175b6408a4045e5cfcb96ed6c26c2f7c7d4c05"
+    },
+    "size": 26,
+    "parent": 10000
+  },
+  {
+    "id": 10021,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Forces of Nature",
+    "order": 30,
+    "year": 2018,
+    "code": "SFN",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "d8fc3542695cc382559da7a674d52d0a76bfb1ab",
+      "collectionBg": "5cc06242913f82612adc647ffeb46165f98bc11a"
+    },
+    "size": 28,
+    "parent": 10005
+  },
+  {
+    "id": 10023,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Amphibians",
+    "order": 5,
+    "year": 2018,
+    "code": "LAM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "c7526b4e412f63d296d92e869a9d5ea1f16d18dd",
+      "collectionBg": "81abe5efcff5e2d680e75d7f8cf4129743b89418"
+    },
+    "size": 30,
+    "parent": 10001
+  },
+  {
+    "id": 10024,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Climate Change",
+    "order": 10,
+    "year": 2018,
+    "code": "SCC",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "d4372304d3da2e7812aecad36132bcee3e13a758",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10005
+  },
+  {
+    "id": 10025,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Space Mythic Cards",
+    "order": 40,
+    "year": 2018,
+    "code": "MYSP",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "3f90529350b6912b22e27042803ceb05bb7ddd47",
+      "collectionBg": null
+    },
+    "size": 5,
+    "parent": 10002
+  },
+  {
+    "id": 10026,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Life on Land Mythic Cards",
+    "order": 45,
+    "year": 2018,
+    "code": "MYLO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "c3748763ce60f179c840f1d312514dd835813f0a",
+      "collectionBg": null
+    },
+    "size": 4,
+    "parent": 10001
+  },
+  {
+    "id": 10027,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Oceans and Seas Mythic Cards",
+    "order": 60,
+    "year": 2018,
+    "code": "MYSE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "881e08d3d0d4d2c861709b38dde350fc22b421db",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10000
+  },
+  {
+    "id": 10028,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "History Mythic Cards",
+    "order": 40,
+    "year": 2018,
+    "code": "MYHI",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "5afbcde2e29a165ba173cc51de73ee15f6ea4d86",
+      "collectionBg": null
+    },
+    "size": 3,
+    "parent": 10003
+  },
+  {
+    "id": 10029,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Paleontology Mythic Cards",
+    "order": 45,
+    "year": 2018,
+    "code": "MYPA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "6470fb982b4011a097bf9e92759d7c7565ed02de",
+      "collectionBg": null
+    },
+    "size": 3,
+    "parent": 10004
+  },
+  {
+    "id": 10030,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Monsters of the Deep",
+    "order": 35,
+    "year": 2018,
+    "code": "PMO",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "02693962d0e81801a497f3aea94e8041dc136e84",
+      "collectionBg": null
+    },
+    "size": 34,
+    "parent": 10004
+  },
+  {
+    "id": 10031,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Mega Math",
+    "order": 45,
+    "year": 2018,
+    "code": "SMA",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "e4c87aaee38b9b7ad47b827455749ffa34d32a46",
+      "collectionBg": "1c63ce5df011f131205c16091120b8ef1c805b5b"
+    },
+    "size": 43,
+    "parent": 10005
+  },
+  {
+    "id": 10032,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Space Technology",
+    "order": 55,
+    "year": 2018,
+    "code": "STE",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "eb34a7cd7b238dbac8a2a81bfd604d59b95b77eb",
+      "collectionBg": "467b3d74400c680ff2b07af0fbca6e59f6014aa2"
+    },
+    "size": 33,
+    "parent": 10002
+  },
+  {
+    "id": 10033,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Fabulous Fish",
+    "order": 35,
+    "year": 2018,
+    "code": "OFI",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "89c6031734740b362242799d763a6f3f38377597",
+      "collectionBg": "140c084d29e355b12d67412045313967b7433285"
+    },
+    "size": 43,
+    "parent": 10000
+  },
+  {
+    "id": 10034,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Ancient Egypt",
+    "order": 5,
+    "year": 2018,
+    "code": "EEG",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "68e859ac1437c5ab189120bc6a7717868e17d5a5",
+      "collectionBg": "55618610321c3fa834cd236266c27d67ed263d9f"
+    },
+    "size": 23,
+    "parent": 10003
+  },
+  {
+    "id": 10035,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Birds",
+    "order": 15,
+    "year": 2018,
+    "code": "LBI",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "f074dfaf48f63116a589a00696328fda611a3e4c",
+      "collectionBg": "f048d1dc043b7898492e67cd35a2bda8f7611939"
+    },
+    "size": 60,
+    "parent": 10001
+  },
+  {
+    "id": 10036,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Constellations",
+    "order": 5,
+    "year": 2018,
+    "code": "SCO",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "6c8c4fa1ed69e4987f580866da23868ba03c1798",
+      "collectionBg": "20054bc8255f7a3ea14746db59d135b0c9691bdf"
+    },
+    "size": 33,
+    "parent": 10002
+  },
+  {
+    "id": 10037,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Oceans & Seas Specials",
+    "order": 50,
+    "year": 2018,
+    "code": "OEV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "3c8beb30a26fbab12f848fd273b7a066a61558ca",
+      "collectionBg": null
+    },
+    "size": 7,
+    "parent": 10000
+  },
+  {
+    "id": 10038,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Life on Land Specials",
+    "order": 40,
+    "year": 2018,
+    "code": "LEV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "b0f22ccb7bddeac6272d4dd63069025c2bd4ac0f",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10001
+  },
+  {
+    "id": 10039,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Space Specials",
+    "order": 35,
+    "year": 2018,
+    "code": "SEV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "f4963ccd9b1627bd3ffe63ead804954f59905f75",
+      "collectionBg": null
+    },
+    "size": 5,
+    "parent": 10002
+  },
+  {
+    "id": 10040,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "History Specials",
+    "order": 45,
+    "year": 2018,
+    "code": "HEV",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "9bcb7822ba479565e2a869eaf988db9dd2c8f460",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10003
+  },
+  {
+    "id": 10041,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Unruly Rulers",
+    "order": 70,
+    "year": 2018,
+    "code": "EMM",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "6ee3387f2074d740975955c77c74bf6c9e54a5c8",
+      "collectionBg": null
+    },
+    "size": 50,
+    "parent": 10003
+  },
+  {
+    "id": 10042,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Sea Birds",
+    "order": 70,
+    "year": 2018,
+    "code": "OBI",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "3e68298d6c42e27979f68789d9f340453a178855",
+      "collectionBg": "59194510330081d444f174aa9a8ad5f4146c45de"
+    },
+    "size": 36,
+    "parent": 10000
+  },
+  {
+    "id": 10043,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Ocean Reptiles",
+    "order": 45,
+    "year": 2018,
+    "code": "ORE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "03afacedab756be3021ccf6f99511a1ffbc38779",
+      "collectionBg": null
+    },
+    "size": 24,
+    "parent": 10000
+  },
+  {
+    "id": 10044,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Deep Ocean",
+    "order": 25,
+    "year": 2018,
+    "code": "ODE",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "8a0ba32642f6311e9c991f66044b1c96b870e669",
+      "collectionBg": "fef3c2f2f78933f72adf016834f6e82f312fd138"
+    },
+    "size": 35,
+    "parent": 10000
+  },
+  {
+    "id": 10045,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Bays and Coastlines",
+    "order": 10,
+    "year": 2018,
+    "code": "OBA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "f5bd44e313d26454df5d7f2a1b5ffb391ab1260c",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10000
+  },
+  {
+    "id": 10046,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Fantastic Fish!",
+    "order": 30,
+    "year": 2018,
+    "code": "OFS",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "f5bd44e313d26454df5d7f2a1b5ffb391ab1260c",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10000
+  },
+  {
+    "id": 10047,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Crustaceans",
+    "order": 20,
+    "year": 2018,
+    "code": "OCE",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "83a0d6cfd7c4f609b0dc4a0697aa7f6fc8a4a9d0",
+      "collectionBg": null
+    },
+    "size": 38,
+    "parent": 10000
+  },
+  {
+    "id": 10048,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Corals & Invertebrates",
+    "order": 20,
+    "year": 2018,
+    "code": "OCO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "f5bd44e313d26454df5d7f2a1b5ffb391ab1260c",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10000
+  },
+  {
+    "id": 10049,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Plant Life",
+    "order": 70,
+    "year": 2018,
+    "code": "LPL",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "a63badc7e82d580fdfedc52992dd57ac3ae459d2",
+      "collectionBg": "62e1fc461767d8b2cb777c6048c240e470fcd8d9"
+    },
+    "size": 50,
+    "parent": 10001
+  },
+  {
+    "id": 10050,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Bugs",
+    "order": 20,
+    "year": 2018,
+    "code": "LBU",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "370fb5d826cd543d8fdade23befc206ae636bb18",
+      "collectionBg": "aecb88d21ce334f0eae713806b3a3c6028b932be"
+    },
+    "size": 52,
+    "parent": 10001
+  },
+  {
+    "id": 10051,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "On the Farm",
+    "order": 55,
+    "year": 2018,
+    "code": "LFA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "be8c956fcf657e9c2d2ad0e1c22206327ccefe5b",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10001
+  },
+  {
+    "id": 10052,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Primates",
+    "order": 75,
+    "year": 2018,
+    "code": "LPR",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "7288b0ac1ce1cc9f7e3117abcd20556e26efd4d4",
+      "collectionBg": null
+    },
+    "size": 39,
+    "parent": 10001
+  },
+  {
+    "id": 10053,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Cool Cats",
+    "order": 25,
+    "year": 2018,
+    "code": "LCA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "dc1659f46c7f4fd21b85bc84daf429f7ec5db448",
+      "collectionBg": null
+    },
+    "size": 33,
+    "parent": 10001
+  },
+  {
+    "id": 10054,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Philosophy",
+    "order": 50,
+    "year": 2018,
+    "code": "ACPH",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "33d20ea54769158c6c53a1cae59aec71322d8078",
+      "collectionBg": null
+    },
+    "size": 22,
+    "parent": 10102
+  },
+  {
+    "id": 10055,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "International Space Station",
+    "order": 25,
+    "year": 2018,
+    "code": "SIN",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "b9df0d9c9cf1f1441dabe856055bda743eea8f0d",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10002
+  },
+  {
+    "id": 10056,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Exploring the Stars",
+    "order": 10,
+    "year": 2018,
+    "code": "SST",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "057511d0a0363a43591309ae089cbcacaf2ce6f2",
+      "collectionBg": null
+    },
+    "size": 55,
+    "parent": 10002
+  },
+  {
+    "id": 10057,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Forces of the Universe",
+    "order": 15,
+    "year": 2018,
+    "code": "SFO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "a82f93731a184cc18222062424da693e0e7fc709",
+      "collectionBg": "e6cc99b5832264aac4f06ebe82834a8293939681"
+    },
+    "size": 32,
+    "parent": 10002
+  },
+  {
+    "id": 10058,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Nebulae",
+    "order": 25,
+    "year": 2018,
+    "code": "SNB",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "b69f034fa56f8d857fd446264dcdf4d063b6011c",
+      "collectionBg": "220d38e56374cc4191fb67a3e97366105d0f40dd"
+    },
+    "size": 40,
+    "parent": 10002
+  },
+  {
+    "id": 10059,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The American Revolution",
+    "order": 94,
+    "year": 2018,
+    "code": "EAM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "fa11cf7213e94de92831d0280448dd7724057440",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10003
+  },
+  {
+    "id": 10060,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Australasia",
+    "order": 25,
+    "year": 2018,
+    "code": "EAU",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "4293fae273ca4d7093e940186434be0fe01d690f",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10003
+  },
+  {
+    "id": 10061,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "The Silk Road",
+    "order": 90,
+    "year": 2018,
+    "code": "ESI",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "3887a7d1735a3aa8486f8d847317028b8e0452ad",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10003
+  },
+  {
+    "id": 10062,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The Roman Empire",
+    "order": 90,
+    "year": 2018,
+    "code": "ERO",
+    "modified": 1677239240371,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "47abd570028aa7f0c81bd503a6944ee4cefe6349",
+      "collectionBg": null
+    },
+    "size": 58,
+    "parent": 10003
+  },
+  {
+    "id": 10063,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "American Folklore",
+    "order": 4,
+    "year": 2018,
+    "code": "EAF",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "ae3f7c8354038f76d7064e8eb38f59813c9401b6",
+      "collectionBg": null
+    },
+    "size": 11,
+    "parent": 10003
+  },
+  {
+    "id": 10064,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "The European Tour",
+    "order": 80,
+    "year": 2018,
+    "code": "EEU",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "30f5fb537fb613b418552d08620b81d447a861d9",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10003
+  },
+  {
+    "id": 10065,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Excavating the Past",
+    "order": 25,
+    "year": 2018,
+    "code": "PEP",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "7567526b466b04b210574f9562f210db84e765a7",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10004
+  },
+  {
+    "id": 10066,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Ancient Creatures",
+    "order": 5,
+    "year": 2018,
+    "code": "PAN",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "635e0b282a7fb0d449bfec2017a25e6eba204e53",
+      "collectionBg": null
+    },
+    "size": 44,
+    "parent": 10004
+  },
+  {
+    "id": 10067,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Creatures of the Sky and Sea",
+    "order": 20,
+    "year": 2018,
+    "code": "PSS",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "7567526b466b04b210574f9562f210db84e765a7",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10004
+  },
+  {
+    "id": 10068,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Energy",
+    "order": 20,
+    "year": 2018,
+    "code": "SEN",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "617fd8f62e54dcda041d5fb74574d24dda05f955",
+      "collectionBg": "b05b566241d3816d3a4a12551301a7c592222f71"
+    },
+    "size": 23,
+    "parent": 10005
+  },
+  {
+    "id": 10069,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Ingenious Inventions",
+    "order": 35,
+    "year": 2018,
+    "code": "SNV",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "586067d842f717cb1fafa75bd4b031339075cb75",
+      "collectionBg": null
+    },
+    "size": 60,
+    "parent": 10005
+  },
+  {
+    "id": 10070,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Pioneers of Science",
+    "order": 55,
+    "year": 2018,
+    "code": "SPI",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "93cad3b02df4f8abb154e4884f3f485484551dbc",
+      "collectionBg": "16b64708534923bfccc2c6d7b904ec8519695506"
+    },
+    "size": 40,
+    "parent": 10005
+  },
+  {
+    "id": 10071,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "The Laws of Science",
+    "order": 70,
+    "year": 2018,
+    "code": "SLA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "807f4271fdf57de8492fded5839ef42e9eea0a32",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10005
+  },
+  {
+    "id": 10072,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Excellent Elements",
+    "order": 25,
+    "year": 2018,
+    "code": "SEL",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "69da106267dff1cb49c5d5095a6b2e3eae2f49f9",
+      "collectionBg": "03c2eb99fa32d56dc15b3e2591c680cb8fb20765"
+    },
+    "size": 26,
+    "parent": 10005
+  },
+  {
+    "id": 10073,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Marvellous Medicine",
+    "order": 40,
+    "year": 2018,
+    "code": "SME",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "0230ad839e995d572a36a99eaa6ef36a86dfb2c9",
+      "collectionBg": null
+    },
+    "size": 28,
+    "parent": 10005
+  },
+  {
+    "id": 10074,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Festive Traditions",
+    "order": 30,
+    "year": 2018,
+    "code": "ACFE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "43d444aed10e6040e04f06306a1be0b3009127c6",
+      "collectionBg": "395a6c90c8b8cf99910f8d208c6f1fe02b6d3555"
+    },
+    "size": 50,
+    "parent": 10102
+  },
+  {
+    "id": 10076,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Venomous Creatures",
+    "order": 85,
+    "year": 2018,
+    "code": "LVE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "5d4f0e0db607f69fe5174e70756e87c2edb65799",
+      "collectionBg": null
+    },
+    "size": 40,
+    "parent": 10001
+  },
+  {
+    "id": 10077,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Wonders of Construction",
+    "order": 110,
+    "year": 2018,
+    "code": "EWW",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "edee73fd36cca08cedf8e899f2190b4727179d58",
+      "collectionBg": null
+    },
+    "size": 52,
+    "parent": 10003
+  },
+  {
+    "id": 10078,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Omnivores",
+    "order": 40,
+    "year": 2018,
+    "code": "POM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "9cefc1755824fffb5781a3767cf29ee4a887fc51",
+      "collectionBg": "618abf39280fe40d78f59f073283be36e5e809fa"
+    },
+    "size": 23,
+    "parent": 10004
+  },
+  {
+    "id": 10079,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Hybrid Animals",
+    "order": 35,
+    "year": 2018,
+    "code": "LHY",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "8ade52b9c4cad9806c9a5a1f5300d4c585b3194c",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10001
+  },
+  {
+    "id": 10080,
+    "attributes": {
+      "ENO": "ACNO",
+      "type": "Special"
+    },
+    "name": "Norse Mythology",
+    "order": 60,
+    "year": 2018,
+    "code": "ACNO",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "fa5ab4e257d21006427ad949dae4599b5e99f9f4",
+      "collectionBg": null
+    },
+    "size": 59,
+    "parent": 10102
+  },
+  {
+    "id": 10081,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Fearsome Flyers",
+    "order": 25,
+    "year": 2018,
+    "code": "PFF",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "927da52e42685b9b2247c070e6f20072230eb145",
+      "collectionBg": null
+    },
+    "size": 33,
+    "parent": 10004
+  },
+  {
+    "id": 10082,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Legends of the Old West",
+    "order": 65,
+    "year": 2018,
+    "code": "EOW",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "853bebcea9c2d1ae3615888421beced114c17fd0",
+      "collectionBg": "337be955c04509927cc7c9256df271d1b6909338"
+    },
+    "size": 27,
+    "parent": 10003
+  },
+  {
+    "id": 10083,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Science Mythic Cards",
+    "order": 60,
+    "year": 2018,
+    "code": "MYSC",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "9fcb83ca6da86998090acb10748524868569e26c",
+      "collectionBg": null
+    },
+    "size": 5,
+    "parent": 10005
+  },
+  {
+    "id": 10084,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Marsupials",
+    "order": 60,
+    "year": 2018,
+    "code": "LAL",
+    "modified": 1677239240371,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "dbf27ec6c72212343636da98720d810014bfa3f9",
+      "collectionBg": null
+    },
+    "size": 36,
+    "parent": 10001
+  },
+  {
+    "id": 10085,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Paleontology Specials",
+    "order": 50,
+    "year": 2018,
+    "code": "PEV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "063d377a4fa7b14be5b52f6ccc4ceb9f36071629",
+      "collectionBg": null
+    },
+    "size": 4,
+    "parent": 10004
+  },
+  {
+    "id": 10086,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Presidents",
+    "order": 75,
+    "year": 2018,
+    "code": "EPR",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "892907ec5b12369c13ac720911d7d45ab7da9977",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10003
+  },
+  {
+    "id": 10087,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Beautiful Butterflies",
+    "order": 10,
+    "year": 2018,
+    "code": "LBB",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "280d3782ece70680688c04f2c60deb171fe783de",
+      "collectionBg": "a78da9be85e1cd55172270f24661c88fd55945f8"
+    },
+    "size": 36,
+    "parent": 10001
+  },
+  {
+    "id": 10088,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Watching the Skies",
+    "order": 65,
+    "year": 2018,
+    "code": "SWA",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "aee27a880a189fcdcb48a408b2f117636586a293",
+      "collectionBg": null
+    },
+    "size": 37,
+    "parent": 10002
+  },
+  {
+    "id": 10089,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "History Special Fusions",
+    "order": 45,
+    "year": 2018,
+    "code": "FHI",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "426f23463ba60f842f84a4a8231f540881f62786",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10003
+  },
+  {
+    "id": 10090,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Life on Land Special Fusions",
+    "order": 50,
+    "year": 2018,
+    "code": "FLL",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "6e0fca0dde6eafcb5e3d6ad568bb026f6df7e0a2",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10001
+  },
+  {
+    "id": 10091,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Paleontology Special Fusions",
+    "order": 55,
+    "year": 2018,
+    "code": "FPA",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "6a5d0851091ec834c49c4d4b5b0e27d1d4638202",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10004
+  },
+  {
+    "id": 10092,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Science Special Fusions",
+    "order": 65,
+    "year": 2018,
+    "code": "FSC",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "9ee2aa8dea4b3d6f492cdc9a29e0909102457695",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10005
+  },
+  {
+    "id": 10093,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Cephalopods",
+    "order": 10,
+    "year": 2018,
+    "code": "OCP",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "0ca86e56660d379bcb673778b1ec429f6a917186",
+      "collectionBg": null
+    },
+    "size": 30,
+    "parent": 10000
+  },
+  {
+    "id": 10094,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Oceans & Seas Special Fusions",
+    "order": 55,
+    "year": 2018,
+    "code": "FSE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "567c85eab2bd5885ef1ab0b847110dd8f691205c",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10000
+  },
+  {
+    "id": 10095,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Space Special Fusions",
+    "order": 50,
+    "year": 2018,
+    "code": "FSP",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "1c6e65fb6126b73a4ea9111df875b64ce481f962",
+      "collectionBg": null
+    },
+    "size": 10,
+    "parent": 10002
+  },
+  {
+    "id": 10096,
+    "attributes": {
+      "EGM": "ACGM",
+      "type": "Special"
+    },
+    "name": "Greek Mythology",
+    "order": 33,
+    "year": 2018,
+    "code": "ACGM",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "22a026aa960a703b2bd57aa5a709cfad207eddad",
+      "collectionBg": null
+    },
+    "size": 78,
+    "parent": 10102
+  },
+  {
+    "id": 10097,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Amazing Astronauts",
+    "order": 3,
+    "year": 2018,
+    "code": "SAS",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "cedd2bc28c1e9d83b11bb50dccdd202902f8037d",
+      "collectionBg": null
+    },
+    "size": 23,
+    "parent": 10002
+  },
+  {
+    "id": 10098,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Dizzying Discoveries",
+    "order": 15,
+    "year": 2018,
+    "code": "SDD",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "b48cc144de64f370e7128ce678a39de4ca8e4ec1",
+      "collectionBg": null
+    },
+    "size": 38,
+    "parent": 10005
+  },
+  {
+    "id": 10099,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Hidden Gems",
+    "order": 33,
+    "year": 2018,
+    "code": "SGM",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "dbd82848db1fe29f46329f4638ba147e1ac7b48f",
+      "collectionBg": null
+    },
+    "size": 32,
+    "parent": 10005
+  },
+  {
+    "id": 10100,
+    "attributes": {
+      "type": "Special",
+      "EHA": "ACHA"
+    },
+    "name": "Horrible Halloween",
+    "order": 48,
+    "year": 2018,
+    "code": "ACHA",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "ae30a2e7873c98e75d41db5fb4499a0c985f0688",
+      "collectionBg": "35184f30515d15c57ddb003147a3252ab3145d1f"
+    },
+    "size": 33,
+    "parent": 10102
+  },
+  {
+    "id": 10101,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Going Underground",
+    "order": 53,
+    "year": 2018,
+    "code": "LUN",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "1d554a34b6e66fcd0eb35f7298214c1bd6b81dd3",
+      "collectionBg": null
+    },
+    "size": 56,
+    "parent": 10001
+  },
+  {
+    "id": 10103,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Curious Cuisine",
+    "order": 25,
+    "year": 2018,
+    "code": "ACCU",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "f7a3a75f8b87cd8116dbc203bda0bcbb516075ef",
+      "collectionBg": "6cd49c5e0b1264007f01529d548c043710abf659"
+    },
+    "size": 52,
+    "parent": 10102
+  },
+  {
+    "id": 10104,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Prominent Painters",
+    "order": 40,
+    "year": 2018,
+    "code": "ACPP",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "b238c93a826231215dfee7eb02c1f76bf859b368",
+      "collectionBg": "c1a63174e1a242001cec46e3fb79aef38047226c"
+    },
+    "size": 44,
+    "parent": 10102
+  },
+  {
+    "id": 10105,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Good Sports",
+    "order": 30,
+    "year": 2018,
+    "code": "ACSP",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "35ca38c929447cecc0dea1dde4ace836ebc42d7c",
+      "collectionBg": "e9fe4eeca8303065ae098ad738beeacc1d58f0da"
+    },
+    "size": 35,
+    "parent": 10102
+  },
+  {
+    "id": 10106,
+    "attributes": {
+      "type": "Fusion"
+    },
+    "name": "Arts & Culture Special Fusions",
+    "order": 20,
+    "year": 2018,
+    "code": "ACFU",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "9c3458e07392516840dc752588c46599a83bdfcd",
+      "collectionBg": null
+    },
+    "size": 10,
+    "parent": 10102
+  },
+  {
+    "id": 10107,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Arts & Culture Specials",
+    "order": 10,
+    "year": 2018,
+    "code": "ACEV",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "02e057751b098b15047d7a0c63353c92e09c9db2",
+      "collectionBg": null
+    },
+    "size": 25,
+    "parent": 10102
+  },
+  {
+    "id": 10108,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Arts & Culture Mythic Cards",
+    "order": 15,
+    "year": 2018,
+    "code": "ACMY",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "772c735a728f4456a0c2ba3561f7477f3e8ff153",
+      "collectionBg": null
+    },
+    "size": 5,
+    "parent": 10102
+  },
+  {
+    "id": 10109,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Chinese Folklore",
+    "order": 15,
+    "year": 2018,
+    "code": "ECF",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "2e19ce35d873f5ac10fa2c9df5624a6168fcd3ff",
+      "collectionBg": null
+    },
+    "size": 49,
+    "parent": 10003
+  },
+  {
+    "id": 10110,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Documented",
+    "order": 20,
+    "year": 2018,
+    "code": "EDO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "9d01bf110fd9d538dbf5d6d2f0489d89cb22eb96",
+      "collectionBg": null
+    },
+    "size": 28,
+    "parent": 10003
+  },
+  {
+    "id": 10111,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Exciting Exploration",
+    "order": 25,
+    "year": 2018,
+    "code": "EEE",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "7e9c8b78021d866bd125a32bca9d556c2d01fceb",
+      "collectionBg": null
+    },
+    "size": 25,
+    "parent": 10003
+  },
+  {
+    "id": 10112,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Secret Societies",
+    "order": 90,
+    "year": 2018,
+    "code": "ESS",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "02c29818c831b4fc763afe300e3675f097f8dd40",
+      "collectionBg": null
+    },
+    "size": 21,
+    "parent": 10003
+  },
+  {
+    "id": 10113,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Plundering Pirates",
+    "order": 80,
+    "year": 2018,
+    "code": "EPP",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "643e2d5fa75585b2ea6fa3c4f267fdca56551095",
+      "collectionBg": null
+    },
+    "size": 36,
+    "parent": 10003
+  },
+  {
+    "id": 10114,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Ice Age",
+    "order": 33,
+    "year": 2018,
+    "code": "PIC",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "40a1458651af8bd2763104b69794d7a5b8ce1d79",
+      "collectionBg": null
+    },
+    "size": 22,
+    "parent": 10004
+  },
+  {
+    "id": 10115,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Raging Rivers",
+    "order": 63,
+    "year": 2018,
+    "code": "ORR",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "d607fe691cdc5517287f29dc444f774f2d237420",
+      "collectionBg": "5a29c9e19691e8677b6c21db3209b97e706c55cf"
+    },
+    "size": 20,
+    "parent": 10000
+  },
+  {
+    "id": 10116,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Arthurian Legends",
+    "order": 5,
+    "year": 2018,
+    "code": "ACAL",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "f72c7d5cdf137996b9e372b1a9b2124dd648f6c5",
+      "collectionBg": null
+    },
+    "size": 39,
+    "parent": 10102
+  },
+  {
+    "id": 10117,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Tremendous Trees",
+    "order": 83,
+    "year": 2018,
+    "code": "LTT",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "e7c1f444cc8b99a3817cc5fcb8aae8085b9eb911",
+      "collectionBg": null
+    },
+    "size": 37,
+    "parent": 10001
+  },
+  {
+    "id": 10118,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Molluscs, Worms and Water Bugs",
+    "order": 38,
+    "year": 2018,
+    "code": "OMW",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "5e92f8d2f222e6bd158bb8fdd2087384d00cd079",
+      "collectionBg": null
+    },
+    "size": 23,
+    "parent": 10000
+  },
+  {
+    "id": 10119,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Natural Monuments",
+    "order": 50,
+    "year": 2018,
+    "code": "SMO",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "0ad7d07e72575a6f3d6a34fce5c21f65edf97a24",
+      "collectionBg": null
+    },
+    "size": 39,
+    "parent": 10005
+  },
+  {
+    "id": 10120,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Innovations of War",
+    "order": 37,
+    "year": 2018,
+    "code": "SIW",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "ae8bc13167feb714efd362c6db42d06fc8b4c20b",
+      "collectionBg": null
+    },
+    "size": 20,
+    "parent": 10005
+  },
+  {
+    "id": 10121,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Marvels of Machinery",
+    "order": 10,
+    "year": 2018,
+    "code": "SMM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "313856854e794ff81711af5a35a116847eaf5e4e",
+      "collectionBg": null
+    },
+    "size": 0,
+    "parent": 10005
+  },
+  {
+    "id": 10122,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Grand Designs",
+    "order": 5,
+    "year": 2018,
+    "code": "SGD",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "cfafbcf751bbe05ffcf31d83695b28802e43ce2c",
+      "collectionBg": null
+    },
+    "size": 20,
+    "parent": 10005
+  },
+  {
+    "id": 10123,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Shake Up The System",
+    "order": 93,
+    "year": 2018,
+    "code": "ESY",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "a32cf3f89974b2630fa02226fa4782a6cdd61ca4",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10003
+  },
+  {
+    "id": 10124,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Gorgeous Graphic Design",
+    "order": 33,
+    "year": 2018,
+    "code": "ACGD",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "0f9d1d432aa41fb363593bd5867aaaea0b69a7a9",
+      "collectionBg": null
+    },
+    "size": 23,
+    "parent": 10102
+  },
+  {
+    "id": 10125,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "The Original Odyssey",
+    "order": 45,
+    "year": 2018,
+    "code": "ACOO",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "a68b5c325e9f2c2102ca982b71dac9868b80d21e",
+      "collectionBg": "5cb8b78ef977ff6de52c59910503453a503f4a16"
+    },
+    "size": 20,
+    "parent": 10102
+  },
+  {
+    "id": 10126,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Espionage",
+    "order": 22,
+    "year": 2018,
+    "code": "EES",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "1c4e9275cad3e996b70bced68d2beedd98a5b5a7",
+      "collectionBg": null
+    },
+    "size": 25,
+    "parent": 10003
+  },
+  {
+    "id": 10127,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Science Specials",
+    "order": 50,
+    "year": 2018,
+    "code": "CEV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "1f4bceca2ff0e4eb067a701cc419a3f1129f2d5e",
+      "collectionBg": null
+    },
+    "size": 1,
+    "parent": 10005
+  },
+  {
+    "id": 10128,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Radical Rockets",
+    "order": 30,
+    "year": 2018,
+    "code": "SRR",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "2628cf3764162b9524e61ad6e5eea32008c1c2fd",
+      "collectionBg": null
+    },
+    "size": 23,
+    "parent": 10002
+  },
+  {
+    "id": 10129,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "History of Heartbreak",
+    "order": 30,
+    "year": 2018,
+    "code": "EHH",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "8acabda3132f95b98660bbcd4c6b70e46d349ee6",
+      "collectionBg": null
+    },
+    "size": 22,
+    "parent": 10003
+  },
+  {
+    "id": 10130,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Cute Cats",
+    "order": 27,
+    "year": 2018,
+    "code": "LCC",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "de215396cf90fa0541e44b1358b0d794a7829898",
+      "collectionBg": null
+    },
+    "size": 26,
+    "parent": 10001
+  },
+  {
+    "id": 10131,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Machines of War",
+    "order": 38,
+    "year": 2018,
+    "code": "SMW",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "aab94dd51363cb1f7de3ca05e344dea3f6a5aaa8",
+      "collectionBg": null
+    },
+    "size": 21,
+    "parent": 10005
+  },
+  {
+    "id": 10132,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Brilliant Human Body",
+    "order": 10,
+    "year": 2018,
+    "code": "SBB",
+    "modified": 1677239240371,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "69f97213018cb6a1554c3e1ccf20b4c84ed6b3a2",
+      "collectionBg": null
+    },
+    "size": 32,
+    "parent": 10005
+  },
+  {
+    "id": 10133,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Signs of the Zodiac",
+    "order": 100,
+    "year": 2018,
+    "code": "SZO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "45a0e6a72c4bde8ac5d0a343f642d4bd5a70a230",
+      "collectionBg": null
+    },
+    "size": 13,
+    "parent": 10002
+  },
+  {
+    "id": 10134,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Musically Minded",
+    "order": 37,
+    "year": 2018,
+    "code": "ACMU",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "16c00ac4527c44ac7ae4a2b6d617b339d3e3ab23",
+      "collectionBg": null
+    },
+    "size": 12,
+    "parent": 10102
+  },
+  {
+    "id": 10135,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Turbulent Tudors",
+    "order": 101,
+    "year": 2018,
+    "code": "ETT",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "30e5424b62a780d4a5321e8ea8b95616b9ca2259",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10003
+  },
+  {
+    "id": 10136,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Weird World",
+    "order": 105,
+    "year": 2018,
+    "code": "EWO",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "6b158d644c5b3df8f8d2ffbc1600ba37ce7e411b",
+      "collectionBg": null
+    },
+    "size": 36,
+    "parent": 10003
+  },
+  {
+    "id": 10137,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Donald R. Prothero's Story of Evolution",
+    "order": 57,
+    "year": 2018,
+    "code": "SPP",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "c08704b2741a40a349b95566461926ac3e87756c",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10005
+  },
+  {
+    "id": 10138,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The Write Stuff",
+    "order": 80,
+    "year": 2018,
+    "code": "ACWS",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "4c475f5ee0332202cbbb7fc88c1328796f828990",
+      "collectionBg": null
+    },
+    "size": 41,
+    "parent": 10102
+  },
+  {
+    "id": 10139,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Planetside",
+    "order": 27,
+    "year": 2018,
+    "code": "SPL",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "bb2642d4466e71ea6d003d6e751ce94d8d990fc9",
+      "collectionBg": null
+    },
+    "size": 16,
+    "parent": 10002
+  },
+  {
+    "id": 10140,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Feisty Fish",
+    "order": 36,
+    "year": 2018,
+    "code": "OFF",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "85cff4bcb5bff8ce62ff4092f32337e5b69e2fe0",
+      "collectionBg": null
+    },
+    "size": 28,
+    "parent": 10000
+  },
+  {
+    "id": 10141,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Egyptian Mythology",
+    "order": 27,
+    "year": 2018,
+    "code": "ACEM",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "2057c29936bc0af40ec504193b1ba567e9420525",
+      "collectionBg": null
+    },
+    "size": 33,
+    "parent": 10102
+  },
+  {
+    "id": 10142,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Mythical Creatures",
+    "order": 65,
+    "year": 2018,
+    "code": "LMC",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "507ce9a8d40d3ca4b61b21b2583484a661f54787",
+      "collectionBg": null
+    },
+    "size": 64,
+    "parent": 10001
+  },
+  {
+    "id": 10143,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Around the Reef",
+    "order": 5,
+    "year": 2018,
+    "code": "ORF",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "57b231b404c2b421ca914273e8a1733034dfa119",
+      "base_front_2": "ebda303840bcb162ca798ef0edc4288adaa3f6c1",
+      "base_front_3": "d924e52aaefd9b90e7c0e4a19e2246692b96708e",
+      "base_back": "3218f67a25b4228df0b86d320c827432ca673796",
+      "team_logo": "349fc3bc5f3df83c4e5981a1291ef5f3146b0fd8",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10000
+  },
+  {
+    "id": 10144,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Little Critters",
+    "order": 81,
+    "year": 2018,
+    "code": "LCR",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "24c2f2591d72c067f256e60312d0bd6f736df73c",
+      "collectionBg": null
+    },
+    "size": 12,
+    "parent": 10001
+  },
+  {
+    "id": 10145,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Fancy Fashions",
+    "order": 15,
+    "year": 2018,
+    "code": "ACFF",
+    "modified": 1680679826814,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "b12969ba3ef923a535da1abe21826cad09190d6d",
+      "collectionBg": null
+    },
+    "size": 13,
+    "parent": 10102
+  },
+  {
+    "id": 10146,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Stage and Screen",
+    "order": 60,
+    "year": 2018,
+    "code": "SSC",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "bb3e72fb8a637ebb291b6c5a6ab0861dae212228",
+      "collectionBg": null
+    },
+    "size": 27,
+    "parent": 10005
+  },
+  {
+    "id": 10147,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Lost Treasures",
+    "order": 40,
+    "year": 2018,
+    "code": "ELT",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "fb814d1a174703e3ac2781bc0a86d6f7b15d40ad",
+      "collectionBg": null
+    },
+    "size": 12,
+    "parent": 10003
+  },
+  {
+    "id": 10148,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Sue Black's In The Bones",
+    "order": 62,
+    "year": 2018,
+    "code": "SIB",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "502fa312ff7e7fa813bb68635db8ca2bf3ef058f",
+      "collectionBg": null
+    },
+    "size": 10,
+    "parent": 10005
+  },
+  {
+    "id": 10149,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Playtime",
+    "order": 42,
+    "year": 2018,
+    "code": "ACPY",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "1772a905c839c43f5203d2676a9b54c6d5aa6c51",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10102
+  },
+  {
+    "id": 10150,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Tarot",
+    "order": 43,
+    "year": 2018,
+    "code": "ACTA",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "646c8a49bf03bacd11d3689b932bee145bfbaa73",
+      "collectionBg": null
+    },
+    "size": 38,
+    "parent": 10102
+  },
+  {
+    "id": 10151,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The Occult",
+    "order": 50,
+    "year": 2018,
+    "code": "ACTO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "e2f6b2e1674a4238afd010c26a3b33e705f61140",
+      "collectionBg": null
+    },
+    "size": 26,
+    "parent": 10102
+  },
+  {
+    "id": 10152,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Instrumental",
+    "order": 34,
+    "year": 2018,
+    "code": "ACIM",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "9b59ef90eebbd04715e1e7735e5dbf09842eb044",
+      "collectionBg": null
+    },
+    "size": 14,
+    "parent": 10102
+  },
+  {
+    "id": 10153,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Money, Money, Money",
+    "order": 14,
+    "year": 2018,
+    "code": "ACMO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "3f8ce0f6b3a5c04b35e49f5c297b0b799b5a5659",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10102
+  },
+  {
+    "id": 10154,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Colors",
+    "order": 16,
+    "year": 2018,
+    "code": "ACCO",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "0f3441c1800deac5f0af398b7925461b34e3c6e7",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10102
+  },
+  {
+    "id": 10155,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Majestic Mountains",
+    "order": 39,
+    "year": 2018,
+    "code": "SMT",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "a404945cd9535b05ea9085aeb2ab19d7ab8c1430",
+      "collectionBg": null
+    },
+    "size": 13,
+    "parent": 10005
+  },
+  {
+    "id": 10156,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Japanese Folklore",
+    "order": 46,
+    "year": 2018,
+    "code": "EJF",
+    "modified": 1680252397832,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "4ec3468a568cad3b5997a680c2654038d658c525",
+      "collectionBg": null
+    },
+    "size": 49,
+    "parent": 10003
+  },
+  {
+    "id": 10159,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Rites and Rituals",
+    "order": 41,
+    "year": 2018,
+    "code": "ACRR",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "157a4c051b2d4a26e5b0b011bb549e4226fb4cbb",
+      "collectionBg": null
+    },
+    "size": 14,
+    "parent": 10102
+  },
+  {
+    "id": 10162,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Human Evolution",
+    "order": 31,
+    "year": 2018,
+    "code": "PHU",
+    "modified": 1676634762327,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "1f65d32db644725f13f023dc997874da8debdf39",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10004
+  },
+  {
+    "id": 10165,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Futurology",
+    "order": 31,
+    "year": 2018,
+    "code": "SFR",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "85f24e366c40be6933ef42e63e3b3f51b7013704",
+      "collectionBg": null
+    },
+    "size": 21,
+    "parent": 10005
+  },
+  {
+    "id": 10168,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Aztec Mythology",
+    "order": 12,
+    "year": 2018,
+    "code": "ACAZ",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "9184a4a092ae658ae4d3b9c417234d4cb964555c",
+      "collectionBg": null
+    },
+    "size": 14,
+    "parent": 10102
+  },
+  {
+    "id": 10171,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Land Before Time",
+    "order": 34,
+    "year": 2018,
+    "code": "PLB",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": "8ec695a7fdb8757ca876370522afb2163fbad02b",
+      "base_front_2": "4321849c5a23304bc37b8db4b5b9878fbab43590",
+      "base_front_3": "54b4b7843637e57aec00686d3d5632764c01c711",
+      "base_back": "b41a4da0407ed4cd4e9b3f2fa41f947cd6eb1882",
+      "team_logo": "296cb309f732ed6392b31f9e8dccfd8996369a4d",
+      "collectionBg": null
+    },
+    "size": 9,
+    "parent": 10004
+  },
+  {
+    "id": 10174,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Under the Microscope",
+    "order": 75,
+    "year": 2018,
+    "code": "SUM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "a10554dbebca2a28bde15528ccc91d92eeebba18",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10005
+  },
+  {
+    "id": 10177,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Hoaxes and Cons",
+    "order": 44,
+    "year": 2018,
+    "code": "EHC",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "b2e0a612700d4ef9e74bcafc84c8014e7e96d201",
+      "collectionBg": null
+    },
+    "size": 30,
+    "parent": 10003
+  },
+  {
+    "id": 10179,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Volcanoes",
+    "order": 80,
+    "year": 2018,
+    "code": "SCV",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "c9347ebb1c34ce575dfe6cf2b30341e1302513aa",
+      "collectionBg": null
+    },
+    "size": 4,
+    "parent": 10005
+  },
+  {
+    "id": 10182,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Battle!",
+    "order": 12,
+    "year": 2018,
+    "code": "EBT",
+    "modified": 1677239240371,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "481f64291e0b0f731eda3517fe9df938e5d8670c",
+      "collectionBg": null
+    },
+    "size": 15,
+    "parent": 10003
+  },
+  {
+    "id": 10185,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The Legend of Robin Hood",
+    "order": 44,
+    "year": 2018,
+    "code": "ACRH",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "62cbb42296436217d9b94d271762368082052d9a",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10102
+  },
+  {
+    "id": 10188,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Moon In Motion",
+    "order": 28,
+    "year": 2018,
+    "code": "SLP",
+    "modified": 1677845682902,
+    "assets": {
+      "base_front_1": "197a177eb9084bb037706f35df5397ae463e0921",
+      "base_front_2": "e25a4e83956a7ae740295ae79d97d28c6e294b99",
+      "base_front_3": "cdb3f67b7018bf51b9144917a7ded0bcc62100c0",
+      "base_back": "5a72e4db46e354fa5261e1043fcb6ce73a83af9e",
+      "team_logo": "6d13cad82b6f62dd1aeb1768618b18074e8d87fd",
+      "collectionBg": null
+    },
+    "size": 12,
+    "parent": 10002
+  },
+  {
+    "id": 10191,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Debunked!",
+    "order": 13,
+    "year": 2018,
+    "code": "SCD",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "4d5baa9196cb20b002863430e2c4a1d023930158",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10005
+  },
+  {
+    "id": 10193,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "History of the Internet",
+    "order": 34,
+    "year": 2018,
+    "code": "SHN",
+    "modified": 1680775383531,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "ef4c958ab8db4235c6a65dad770dfe293d613b79",
+      "collectionBg": null
+    },
+    "size": 13,
+    "parent": 10005
+  },
+  {
+    "id": 10196,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Angela Maxwell's Walking the World",
+    "order": 4,
+    "year": 2018,
+    "code": "ACAM",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "82db19a0adcaa4fb4818421399c6f039d381094d",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10102
+  },
+  {
+    "id": 10199,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Vicious Vikings",
+    "order": 90,
+    "year": 2018,
+    "code": "EVV",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "5a0740c47d7afbb74846db0c4f6e345dfa7b0298",
+      "collectionBg": null
+    },
+    "size": 8,
+    "parent": 10003
+  },
+  {
+    "id": 10202,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "On Track!",
+    "order": 53,
+    "year": 2018,
+    "code": "STL",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "1c24a9ba9a556200642eee293ae67ed2afb4713d",
+      "base_front_2": "decd04ccf0391c9a12cf2e8688a1d376e740a983",
+      "base_front_3": "cbb1f1a08a2b8145e0960ac517bcc8335ab857f2",
+      "base_back": "164ac702c4968e21911a5deaa9195785c71a7e25",
+      "team_logo": "4416a90028fa7bdc00cf76be8fa40234cd8ee99d",
+      "collectionBg": null
+    },
+    "size": 3,
+    "parent": 10005
+  },
+  {
+    "id": 10205,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Funky Fungi",
+    "order": 40,
+    "year": 2018,
+    "code": "LFF",
+    "modified": 1678466356265,
+    "assets": {
+      "base_front_1": "5a2b5fa3cdc782f11501d0a3800bc0a3731eb2f6",
+      "base_front_2": "be1c425986b819537e2ba337a94d6c2d9352fcae",
+      "base_front_3": "feed9d26bfd68f454a0dbaec481c608c851275a5",
+      "base_back": "e967f553030099a55c0933280b2e0188741fea18",
+      "team_logo": "f5a5c020eb5e09e360b19f31f4dd634608e3fd61",
+      "collectionBg": null
+    },
+    "size": 5,
+    "parent": 10001
+  },
+  {
+    "id": 10208,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "Once Upon A Time",
+    "order": 78,
+    "year": 2018,
+    "code": "ACOU",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "5283403656eb2c97f5b0de7f44c7a598c15fed31",
+      "collectionBg": null
+    },
+    "size": 11,
+    "parent": 10102
+  },
+  {
+    "id": 10211,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "The Four Horsemen",
+    "order": 45,
+    "year": 2018,
+    "code": "ACFH",
+    "modified": 1676301011895,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "339718916092af96dfbeb2654c0c506c51e88194",
+      "collectionBg": null
+    },
+    "size": 4,
+    "parent": 10102
+  },
+  {
+    "id": 10214,
+    "attributes": {
+      "type": "Basic"
+    },
+    "name": "World of Words",
+    "order": 44,
+    "year": 2018,
+    "code": "ACLG",
+    "modified": 1678985678180,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "af9dbde55e13ba4ac3ccd26828ffd58e6bfa76da",
+      "collectionBg": null
+    },
+    "size": 6,
+    "parent": 10102
+  },
+  {
+    "id": 10217,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Weapons of Choice",
+    "order": 95,
+    "year": 2018,
+    "code": "EWC",
+    "modified": 1681378041888,
+    "assets": {
+      "base_front_1": "f0af689a62c21503e4a721d234c5e206f22ca520",
+      "base_front_2": "fbe86dd015e86d9ff02d78863b37b8aefbfb5367",
+      "base_front_3": "3d940ab0f3ad4502030e0335632948f49099c19f",
+      "base_back": "432fd6448d55a3eeacc5599a9d9d17ac7195e416",
+      "team_logo": "20e4098753d449236c19df54e02cd26178529ecc",
+      "collectionBg": null
+    },
+    "size": 3,
+    "parent": 10003
+  },
+  {
+    "id": 10220,
+    "attributes": {
+      "type": "Special"
+    },
+    "name": "Fiction and Fantasy",
+    "order": 31,
+    "year": 2018,
+    "code": "ACFI",
+    "modified": 1679561242042,
+    "assets": {
+      "base_front_1": null,
+      "base_front_2": null,
+      "base_front_3": null,
+      "base_back": null,
+      "team_logo": "db4ecaca04431e87b6ab5f20f0d3ccf0e6bc5a57",
+      "collectionBg": null
+    },
+    "size": 4,
+    "parent": 10102
+  }
+]

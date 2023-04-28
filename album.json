@@ -1,0 +1,97 @@
+[
+  {
+    "id": 10000,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Oceans",
+    "order": 20,
+    "year": 2018,
+    "code": "SEA",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10001,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Life on Land",
+    "order": 30,
+    "year": 2018,
+    "code": "LOL",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10002,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Space",
+    "order": 25,
+    "year": 2018,
+    "code": "SPA",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10003,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "History",
+    "order": 35,
+    "year": 2018,
+    "code": "EXP",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10004,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Paleontology",
+    "order": 40,
+    "year": 2018,
+    "code": "PAL",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10005,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Science",
+    "order": 45,
+    "year": 2018,
+    "code": "SCI",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10022,
+    "attributes": {},
+    "name": "AR Cards",
+    "order": 35,
+    "year": 2018,
+    "code": "ARALBUM",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10075,
+    "attributes": {},
+    "name": "Featured",
+    "order": 35,
+    "year": 2018,
+    "code": "FEAT",
+    "modified": 1676301011895
+  },
+  {
+    "id": 10102,
+    "attributes": {
+      "type": "Album"
+    },
+    "name": "Arts & Culture",
+    "order": 15,
+    "year": 2018,
+    "code": "ARTS",
+    "modified": 1676301011895
+  }
+]

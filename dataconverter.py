@@ -3,9 +3,6 @@ from dataclasses import dataclass, asdict
 import json
 import pathlib
 
-# db = bytes(open("ProductionDB14.bytes", "rb").read())
-# open("ProductionDB14.sqlite", "wb").write(db)
-
 base_path = pathlib.Path(__file__).parent.resolve()
 print(base_path)
 db_file = f"{base_path}/ProductionDB14.bytes"
@@ -15,9 +12,6 @@ cur = con.cursor()
 
 IMG_FOLDER = f"{base_path}/images/"
 
-# res = cur.execute('SELECT type,name,sql,tbl_name FROM "main".sqlite_master;')
-# result = res.fetchall()
-# print(result)
 
 """
 id
@@ -32,8 +26,6 @@ code
 modified
 
 """
-
-
 @dataclass
 class Base:
     @property
@@ -54,14 +46,6 @@ class Asset(Base):
     team_logo: str | None = None
     collectionBg: str | None = None
 
-    # @property
-    # def __dict__(self):
-    #     return asdict(self)
-
-    # @property
-    # def json(self):
-    #     return json.dumps(self.__dict__)
-
 
 @dataclass
 class Album(Base):
@@ -73,29 +57,12 @@ class Album(Base):
     code: str
     modified: int
 
-    # @property
-    # def __dict__(self):
-    #     return asdict(self)
-
-    # @property
-    # def json(self):
-    #     return json.dumps(self.__dict__)
-
 
 @dataclass
 class Collection(Album):
     assets: Asset
     size: int
     parent: int
-
-    # @property
-    # def __dict__(self):
-    #     return asdict(self)
-
-    # @property
-    # def json(self):
-
-    #     return json.dumps(self.__dict__)
 
 
 album_list = []
@@ -136,13 +103,13 @@ for each in result:
             )
         )
 
-with open("C:/project/poke-backend/app/script/album.json", "w") as album_file:
+with open(f"{base_path}/album.json", "w") as album_file:
     # json_string = json.dumps([each.json for each in album_list])
     # album_file.write(json_string)
     json.dump([each.json for each in album_list], album_file, indent=2)
 
 
-with open("C:/project/poke-backend/app/script/collection.json", "w") as collection_file:
+with open(f"{base_path}/collection.json", "w") as collection_file:
     #  json_string = json.dumps([each.json for each in collection_list])
     #  collection_file.write(json_string)
     json.dump([each.json for each in collection_list], collection_file, indent=2)
@@ -153,7 +120,6 @@ class CardAsset(Base):
     img: str
     comboTitle: str | None = None
     comboIcon: str | None = None
-
 
 
 @dataclass
@@ -208,7 +174,7 @@ for each in result:
     # each[4] = CardAsset(**(json.loads(each[4])))
     card_list.append(Card(*each))
 print(card_list)
-with open("C:/project/poke-backend/app/script/card.json", "w") as card_file:
+with open(f"{base_path}/card.json", "w") as card_file:
     #  json_string = json.dumps([each.json for each in collection_list])
     #  collection_file.write(json_string)
     card_dict = [each.json for each in card_list]
